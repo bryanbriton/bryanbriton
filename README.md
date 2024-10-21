@@ -5,7 +5,7 @@ hi am bryan briton a programmer - 👋 Hi, I’m @bryanbriton
 - 📫 How to reach meGet in Touch
  Email: [bryanbriton@users.noreply.github.com](mailto:bryanbriton@users.noreply.github.com)
        LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-       Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
+       Twitter: [Your Twitter Profile](https://twitter.com/@briton_bryan)
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love hiking and trying new technologies 
 
