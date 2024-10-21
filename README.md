@@ -4,7 +4,7 @@ hi am bryan briton a programmer - 👋 Hi, I’m @bryanbriton
 - 💞️ I’m looking to collaborate on web development project  and Android development 
 - 📫 How to reach meGet in Touch
  Email: [bryanbriton@users.noreply.github.com](mailto:bryanbriton@users.noreply.github.com)
-       LinkedIn: [bryanbritonkipronosang44https://www.linkedin.com/in/bryanbritonkipronosang44?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+       LinkedIn: [bryanbritonkipronosang44]https://www.linkedin.com/in/bryanbritonkipronosang44?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
        Twitter: [@briton_bryan](https://twitter.com/@briton_bryan)
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love hiking and trying new technologies 
